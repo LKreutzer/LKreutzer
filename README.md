@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lars
-- 👀 I’m interested in magma-core
+- 👀 I’m interested in mathematics, software development, data science and art.
 - 🌱 I’m currently learning bazel
 
 <!---
