@@ -5,4 +5,6 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
+[![LKreutzer's github stats](https://github-readme-stats.vercel.app/api?username=LKreutzer&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 ![](https://komarev.com/ghpvc/?username=LKreutzer&color=orange)
