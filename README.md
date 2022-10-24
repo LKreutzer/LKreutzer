@@ -5,7 +5,3 @@
 <br /> 
 
 [![LKreutzer's github stats](https://github-readme-stats.vercel.app/api?username=LKreutzer&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-<br /> 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LKreutzer&theme=nord_dark)
-<br /> 
